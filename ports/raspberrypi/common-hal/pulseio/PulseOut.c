@@ -7,7 +7,7 @@
 #include "common-hal/pulseio/PulseOut.h"
 
 #include <stdint.h>
-#include "mpconfigport.h"
+#include "py/mpconfig.h"
 #include "py/runtime.h"
 #include "shared-bindings/pulseio/PulseOut.h"
 #include "shared-bindings/pwmio/PWMOut.h"

@@ -10,7 +10,7 @@
 
 #include "hal/include/hal_gpio.h"
 
-#include "mpconfigport.h"
+#include "py/mpconfig.h"
 #include "samd/pins.h"
 #include "samd/timers.h"
 #include "py/gc.h"

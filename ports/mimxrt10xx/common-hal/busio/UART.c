@@ -9,7 +9,7 @@
 #include "shared-bindings/microcontroller/__init__.h"
 #include "shared-bindings/busio/UART.h"
 
-#include "mpconfigport.h"
+#include "py/mpconfig.h"
 #include "shared/runtime/interrupt_char.h"
 #include "supervisor/shared/tick.h"
 #include "py/gc.h"

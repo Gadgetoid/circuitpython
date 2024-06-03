@@ -5,7 +5,7 @@
 // SPDX-License-Identifier: MIT
 
 #include "nrfx.h"
-#include "mpconfigport.h"
+#include "py/mpconfig.h"
 
 void nrf_peripherals_clocks_init(void) {
 

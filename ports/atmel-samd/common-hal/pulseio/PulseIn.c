@@ -13,7 +13,7 @@
 
 #include "background.h"
 #include "eic_handler.h"
-#include "mpconfigport.h"
+#include "py/mpconfig.h"
 #include "timer_handler.h"
 #include "py/gc.h"
 #include "py/runtime.h"

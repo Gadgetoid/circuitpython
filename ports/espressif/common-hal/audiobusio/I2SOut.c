@@ -7,7 +7,7 @@
 #include <stdint.h>
 #include <string.h>
 
-#include "mpconfigport.h"
+#include "py/mpconfig.h"
 
 #include "bindings/espidf/__init__.h"
 

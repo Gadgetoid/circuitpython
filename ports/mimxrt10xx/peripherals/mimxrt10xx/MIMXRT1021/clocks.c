@@ -11,7 +11,7 @@
  * SPDX-License-Identifier: BSD-3-Clause
  */
 
-#include "mpconfigport.h"
+#include "py/mpconfig.h"
 
 #include "fsl_clock.h"
 #include "fsl_iomuxc.h"

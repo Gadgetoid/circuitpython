@@ -25,7 +25,7 @@ print(
 #include "py/obj.h"
 #include "sam.h"
 #include "samd/pins.h"
-#include "mpconfigport.h"
+#include "py/mpconfig.h"
 #include "atmel_start_pins.h"
 #include "hal/include/hal_gpio.h"
 #include "common-hal/microcontroller/Pin.h"

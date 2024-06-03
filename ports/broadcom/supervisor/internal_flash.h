@@ -7,4 +7,4 @@
 
 #include <stdbool.h>
 
-#include "mpconfigport.h"
+#include "py/mpconfig.h"

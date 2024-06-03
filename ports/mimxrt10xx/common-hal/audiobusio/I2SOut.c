@@ -7,7 +7,7 @@
 #include <stdint.h>
 #include <string.h>
 
-#include "mpconfigport.h"
+#include "py/mpconfig.h"
 
 // Some boards don't implement I2SOut, so suppress any routines from here.
 #if CIRCUITPY_AUDIOBUSIO_I2SOUT

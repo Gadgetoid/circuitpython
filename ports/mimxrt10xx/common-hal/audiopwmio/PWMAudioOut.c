@@ -7,7 +7,7 @@
 #include <stdint.h>
 #include <string.h>
 
-#include "mpconfigport.h"
+#include "py/mpconfig.h"
 
 #include "py/gc.h"
 #include "py/mperrno.h"

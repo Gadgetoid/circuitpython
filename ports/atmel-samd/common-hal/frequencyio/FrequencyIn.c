@@ -11,7 +11,7 @@
 #include "hal/include/hal_gpio.h"
 #include "atmel_start_pins.h"
 
-#include "mpconfigport.h"
+#include "py/mpconfig.h"
 #include "py/runtime.h"
 #include "timer_handler.h"
 #include "background.h"

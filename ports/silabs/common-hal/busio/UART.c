@@ -28,7 +28,7 @@
 #include "shared-bindings/microcontroller/Pin.h"
 #include "shared-bindings/busio/UART.h"
 
-#include "mpconfigport.h"
+#include "py/mpconfig.h"
 #include "shared/readline/readline.h"
 #include "shared/runtime/interrupt_char.h"
 #include "py/gc.h"

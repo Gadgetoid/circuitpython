@@ -10,7 +10,7 @@
 
 #include "components/driver/uart/include/driver/uart.h"
 
-#include "mpconfigport.h"
+#include "py/mpconfig.h"
 #include "shared/readline/readline.h"
 #include "shared/runtime/interrupt_char.h"
 #include "py/gc.h"

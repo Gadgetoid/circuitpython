@@ -7,7 +7,7 @@
 
 #include <stdbool.h>
 
-#include "mpconfigport.h"
+#include "py/mpconfig.h"
 
 // #define INTERNAL_FLASH_PART1_NUM_BLOCKS (CIRCUITPY_INTERNAL_FLASH_FILESYSTEM_SIZE / FILESYSTEM_BLOCK_SIZE)
 
